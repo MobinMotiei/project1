@@ -7,6 +7,7 @@ class human:
         self.age=age
     def fun(self):
         return f"{self.name} WELCOME!"
+print("888888888888888888888888")
 
 
 ali=human("ali","mousavi",27)
